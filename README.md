@@ -1,8 +1,8 @@
 # SQL# 
 
-## File Structure
-
 #### NOTE: Please download these files by `git clone`, because "Download ZIP" will result in a download error on the big file 2_Demo.mp4.
+
+## File Structure
 
 - 1_InstructionManual.pdf
   > In the user manual, we introduced the syntax of the SQL# language and the usages of the system.
